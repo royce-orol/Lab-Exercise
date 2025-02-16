@@ -39,7 +39,7 @@ The following lab exercises have been enhanced:
 Each enhanced lab exercise is provided in a separate Jupyter Notebook:
 - `1_LabEnhancements_PCA.ipynb`
 - `2_LabEnhancement_LinearRegression.ipynb`
-- `3_LabEnhancements_LogisticRegression.ipynb`
+- `3_LabEnhancements_LR.ipynb`
 - `4_LabEnhancements_PyTorch.ipynb`
 
 ## Requirements
@@ -52,7 +52,15 @@ To run these notebooks, ensure you have the following installed:
   - Pandas
   - Matplotlib
   - Scikit-learn
-  - PyTorch
+  - statsmodels
+  - ipywidgets
+  - yfinance
+  - seaborn
+  - torch
+  - torchvision
+  - timeit
+  - itertools
+  - os
 
 ## Execution Instructions
 - **Google Colab:** Upload the notebooks to Google Drive and open them in Colab.
