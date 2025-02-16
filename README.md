@@ -21,17 +21,18 @@ The following lab exercises have been enhanced:
    5. Evaluation of all approaches involved
    6. Conclusion to clarify the comparison and the results.
 
-3. **Gradient Descent (Part A)**
+3. **Logistic Regression**
    - Explains the theory behind gradient descent optimization.
    - Visualizes the gradient descent process and convergence.
    - Applies gradient descent to a real-world regression problem.
    - Compares gradient descent with other optimization algorithms.
 
 4. **PyTorch Fundamentals**
-   - Introduces the basics of PyTorch for deep learning.
-   - Demonstrates tensor operations and automatic differentiation.
-   - Applies PyTorch to a simple neural network implementation.
-   - Compares PyTorch with other deep learning frameworks.
+   1. Detailed comments and docstrings to explain the code and concepts.
+   2. Custom model implementation, GPU support, and checkpointing.
+   3. A validation set to monitor overfitting.
+   4. Training and comparing two models.
+   5. Training curves, confusion matrix, and misclassified images.
 
 ## File Structure
 Each enhanced lab exercise is provided in a separate Jupyter Notebook:
@@ -55,10 +56,3 @@ To run these notebooks, ensure you have the following installed:
 ## Execution Instructions
 - **Google Colab:** Upload the notebooks to Google Drive and open them in Colab.
 - **Visual Studio Code:** Open the notebooks in VS Code with the Jupyter extension enabled.
-
-## Contact
-For any issues or further clarifications, please reach out to the author of these enhancements.
-
----
-
-These enhancements aim to make the lab exercises more interactive, comprehensive, and applicable to real-world scenarios. Enjoy learning!
