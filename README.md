@@ -7,16 +7,19 @@ This project contains enhanced versions of selected lab exercises to provide fut
 The following lab exercises have been enhanced:
 
 1. **Principal Component Analysis (PCA)**
-   - Clarifies the concept of PCA and its mathematical foundation.
-   - Provides visualizations to illustrate how PCA reduces dimensionality.
-   - Applies PCA to a real-world dataset to demonstrate its use in data preprocessing.
-   - Compares PCA with other dimensionality reduction techniques.
+   1. Introduction to PCA (Improved and Expanded)
+   2. Interactive PCA Visualizations with Widgets (Improved on CIFAR-10 Dataset Understanding)
+   3. PCA with Time Series Data 
+   4. PCA for Feature Engineering
+   5. Added Extra and refined lab exercises with detailed explanation on requirements
 
 2. **Linear Regression**
-   - Explores simple and multiple linear regression models.
-   - Provides visualizations of regression lines and residuals.
-   - Applies linear regression to real-world datasets to demonstrate its effectiveness.
-   - Compares different optimization methods for parameter estimation.
+   1. Overview and Summarization
+   2. Comparison Between Approaches
+   3. Enhanced look for each Regression Approaches
+   4. Extra added visuals to the plotting graphs of each regression models.
+   5. Evaluation of all approaches involved
+   6. Conclusion to clarify the comparison and the results.
 
 3. **Gradient Descent (Part A)**
    - Explains the theory behind gradient descent optimization.
