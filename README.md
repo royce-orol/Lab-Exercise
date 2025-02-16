@@ -22,10 +22,11 @@ The following lab exercises have been enhanced:
    6. Conclusion to clarify the comparison and the results.
 
 3. **Logistic Regression**
-   - Explains the theory behind gradient descent optimization.
-   - Visualizes the gradient descent process and convergence.
-   - Applies gradient descent to a real-world regression problem.
-   - Compares gradient descent with other optimization algorithms.
+   1. Added Conceptual Explanation for each of methods
+   2. Comparison Between Logistic Regression with other models.
+   3. Simplified Codes and Structured walkthrough to ease students with minimal knowledge
+   4. Added overview at the top of the lab
+   5. Added theoretical Lab Exercises at the end of lab
 
 4. **PyTorch Fundamentals**
    1. Detailed comments and docstrings to explain the code and concepts.
