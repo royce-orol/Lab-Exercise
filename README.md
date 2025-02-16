@@ -34,7 +34,7 @@ The following lab exercises have been enhanced:
 Each enhanced lab exercise is provided in a separate Jupyter Notebook:
 - `1_LabEnhancements_PCA.ipynb`
 - `2_LabEnhancement_LinearRegression.ipynb`
-- `3_LabEnhancements_GradientDescentPartA.ipynb`
+- `3_LabEnhancements_LogisticRegression.ipynb`
 - `4_LabEnhancements_PyTorch.ipynb`
 
 ## Requirements
@@ -42,7 +42,7 @@ To run these notebooks, ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook or Jupyter Lab
 - Google Colab (if running on the cloud)
-- Required Python libraries (install using `pip install -r requirements.txt` if necessary):
+- Required Python libraries :
   - NumPy
   - Pandas
   - Matplotlib
